@@ -1,0 +1,23 @@
+
+#cabecera{
+    background: url(../img/124732-ferreteria-urbano-banner.jpg) 100% fixed ;
+    height: 560px;;
+}
+.margen{
+     margin: 15px 15px;
+     
+}
+.bor{
+    box-shadow: 1px 10px 40px;
+    
+}
+.conim{
+    width:100px;
+    
+}
+.le{
+    color:whithe;
+}
+h2{
+    text-align: center;
+}
